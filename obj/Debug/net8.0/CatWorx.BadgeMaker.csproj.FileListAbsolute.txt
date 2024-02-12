@@ -12,3 +12,4 @@ C:\Users\Tyler\Desktop\Projects\Tutorials\C#\CatWorx.BadgeMaker\obj\Debug\net8.0
 C:\Users\Tyler\Desktop\Projects\Tutorials\C#\CatWorx.BadgeMaker\obj\Debug\net8.0\CatWorx.BadgeMaker.pdb
 C:\Users\Tyler\Desktop\Projects\Tutorials\C#\CatWorx.BadgeMaker\obj\Debug\net8.0\CatWorx.BadgeMaker.genruntimeconfig.cache
 C:\Users\Tyler\Desktop\Projects\Tutorials\C#\CatWorx.BadgeMaker\obj\Debug\net8.0\ref\CatWorx.BadgeMaker.dll
+C:\Users\Tyler\Desktop\Projects\Tutorials\C#\CatWorx.BadgeMaker\obj\Debug\net8.0\CatWorx.BadgeMaker.sourcelink.json
