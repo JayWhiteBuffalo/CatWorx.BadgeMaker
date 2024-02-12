@@ -1,8 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "PSY7GZGWGlcgH7OBB725LBsY/iEao7ywRWSZcujFWq4oQ9PiNRkkMxm/lXGq/jXXXlCnUqWJIt4G0rswE2KbaA==",
+  "dgSpecHash": "X3WfvYkVhzuKZ5PPwSSapRR6P9+HnXlKeZ/62sA8AfaXZtVguHt8cP5BdPxkHyDUkeI7LEzR/aqUyd1we+y6yA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Tyler\\Desktop\\Projects\\Tutorials\\C#\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\Tyler\\.nuget\\packages\\skiasharp\\2.88.0\\skiasharp.2.88.0.nupkg.sha512",
+    "C:\\Users\\Tyler\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.0\\skiasharp.nativeassets.macos.2.88.0.nupkg.sha512",
+    "C:\\Users\\Tyler\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.0\\skiasharp.nativeassets.win32.2.88.0.nupkg.sha512",
+    "C:\\Users\\Tyler\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SkiaSharp' 2.88.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-j7hp-h8jx-5ppr",
+      "libraryId": "SkiaSharp",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
