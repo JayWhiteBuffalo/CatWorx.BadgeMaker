@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "X3WfvYkVhzuKZ5PPwSSapRR6P9+HnXlKeZ/62sA8AfaXZtVguHt8cP5BdPxkHyDUkeI7LEzR/aqUyd1we+y6yA==",
+  "dgSpecHash": "XISrMnGbem5MkVnCC6bT5sxh2NXrT4ivrwdSxhG+8CpPSiDJpR37s9IFSvlX7k6+gsCgF8IDb8DSqD8gAH4BCQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Tyler\\Desktop\\Projects\\Tutorials\\C#\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Tyler\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Tyler\\.nuget\\packages\\skiasharp\\2.88.0\\skiasharp.2.88.0.nupkg.sha512",
     "C:\\Users\\Tyler\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.0\\skiasharp.nativeassets.macos.2.88.0.nupkg.sha512",
     "C:\\Users\\Tyler\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.0\\skiasharp.nativeassets.win32.2.88.0.nupkg.sha512",
